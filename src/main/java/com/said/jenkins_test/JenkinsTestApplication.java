@@ -11,5 +11,5 @@ public class JenkinsTestApplication {
 		System.out.println("bonjour");
 
 	}
-	
+
 }
